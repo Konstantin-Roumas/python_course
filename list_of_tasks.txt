@@ -17,3 +17,7 @@ https://ru.hexlet.io/courses/python-basics
 6.В проекте создать каталог со своим именем
 7.В этом каталоге создать каталог LeetCode и Heksltet
 8.Как все будет готово создать мердж реквест
+26.07.2023
+Андрей и Никита
+Пройти полностью курс
+https://ru.hexlet.io/courses/intro_to_git

@@ -1,0 +1,19 @@
+Index: andrey/arithmetic-operations.py
+===================================================================
+diff --git a/andrey/arithmetic-operations.py b/andrey/arithmetic-operations.py
+--- a/andrey/arithmetic-operations.py	
++++ b/andrey/arithmetic-operations.py	
+@@ -1,0 +1,13 @@
++a = int(3)
++a = a ** 5
++print(a)
++b = int(-8)
++b = b//-4
++print(b)
++c = int(100)
++c = c % 3
++print(c)
++print(a + b + c)
++
++
++

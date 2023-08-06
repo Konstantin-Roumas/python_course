@@ -1,8 +1,5 @@
 euros_count = 100
 
-# BEGIN (write your solution here)
 dollar_count = euros_count * 1.25
 ruble_count = dollar_count * 60
 print(f"{dollar_count}\n{ruble_count}")
-# END
-
